@@ -1,0 +1,8 @@
+Wed Nov 23 13:21:28 CET 2022 Line added: Hejsa
+Wed Nov 23 13:21:28 CET 2022 Viewed lines
+Wed Nov 23 13:21:28 CET 2022 Line added: Hello
+Wed Nov 23 13:21:28 CET 2022 Line removed: 1: ´Hello´
+Wed Nov 23 13:21:28 CET 2022 Quit the program 
+Wed Nov 23 13:24:21 CET 2022 Line added: 12315
+Wed Nov 23 13:24:21 CET 2022 Line added: 2
+Wed Nov 23 13:24:21 CET 2022 Line added: 0.232
